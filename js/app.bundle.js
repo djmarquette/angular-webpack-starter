@@ -102,7 +102,7 @@ webpackJsonp([0],[
 	'use strict';
 
 	DashboardController.$inject = ['GithubStatusService'];
-	function DashboardController(gh, $sce) {
+	function DashboardController(gh) {
 	    var _this = this;
 	    _this.github = '';
 	    gh.getStatus().then(function(status) {
