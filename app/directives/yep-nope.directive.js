@@ -1,3 +1,9 @@
+/*
+    yep-nope.directive.js:
+    directive to update the status on the screen
+*/
+
+
 function YepNopeDirective() {
   return {
     restrict: 'E',

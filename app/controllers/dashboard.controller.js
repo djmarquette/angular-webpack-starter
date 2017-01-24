@@ -1,3 +1,8 @@
+/*
+    dashboard.controller.js:
+    application controller
+*/
+
 'use strict';
 
 DashboardController.$inject = ['GithubStatusService'];
