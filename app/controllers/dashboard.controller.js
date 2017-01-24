@@ -1,7 +1,7 @@
-/*
+/* *****************************
     dashboard.controller.js:
     application controller
-*/
+* ******************************/
 
 'use strict';
 

@@ -1,8 +1,7 @@
-/*
+/* *****************************
     github-status-service.js:
     Service layer for application
-*/
-
+* ******************************/
 
 'use strict';
 
