@@ -141,6 +141,7 @@ csx
 AppPackages/
 
 # Others
+node_modules/
 sql/
 *.Cache
 ClientBin/
