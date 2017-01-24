@@ -139,3 +139,4 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
+js/app.bundle.js

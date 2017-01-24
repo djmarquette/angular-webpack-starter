@@ -2,10 +2,10 @@ webpackJsonp([0],[
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	/*
+	/* *****************************
 	    app.js:
 	    Entry point for application
-	*/
+	* ******************************/
 
 	angular.module('dashboard', []);
 
@@ -30,11 +30,10 @@ webpackJsonp([0],[
 /* 4 */
 /***/ function(module, exports) {
 
-	/*
+	/* *****************************
 	    yep-nope.directive.js:
 	    directive to update the status on the screen
-	*/
-
+	* ******************************/
 
 	function YepNopeDirective() {
 	  return {
@@ -70,11 +69,10 @@ webpackJsonp([0],[
 /* 8 */
 /***/ function(module, exports) {
 
-	/*
+	/* *****************************
 	    github-status-service.js:
 	    Service layer for application
-	*/
-
+	* ******************************/
 
 	'use strict';
 
@@ -116,10 +114,10 @@ webpackJsonp([0],[
 /* 10 */
 /***/ function(module, exports) {
 
-	/*
+	/* *****************************
 	    dashboard.controller.js:
 	    application controller
-	*/
+	* ******************************/
 
 	'use strict';
 
