@@ -1,18 +1,10 @@
+#####################################
+## Application specific ignore files
+#####################################
 # Application Ignore
 js/app.bundle.js
 js/vendor.bundle.js
 
-# External tool builders
-.externalToolBuilders/
-
-# Locally stored "Eclipse launch configurations"
-*.launch
-
-# CDT-specific
-.cproject
-
-# PDT-specific
-.buildpath
 
 
 #################
